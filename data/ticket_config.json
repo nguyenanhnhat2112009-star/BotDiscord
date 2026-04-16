@@ -1,0 +1,33 @@
+{
+    "panel_channel": 1410350387973722122,
+    "category_id": 1410357293870092330,
+    "support_roles": [],
+    "max_tickets_per_user": 3,
+    "ui_settings": {
+        "panel": {
+            "title": "<:Screenshot2025091014919:1425781527500816416> Hệ thống Ticket 🎐",
+            "description": "🎐- Nhấn nút bên dưới để tạo ticket\n📥 • ticket có thể tạo để hợp tác Sever \n📥 • tạo để nêu thông tin bot nếu có lỗi \n📥 • nếu cần gì có thể tạo và nói admin \n📥 • không spam ticket dưới mọi hình thức",
+            "color": 54442,
+            "image": "https://cdn.discordapp.com/attachments/1410346300968407135/1426951863265132718/IMG_1416.jpg?ex=68ed17fb&is=68ebc67b&hm=9ae34292eaaac1dcf4dd2c537df8cb8d4fa064d3a93c072efd8a4743c4550fff&",
+            "button_label": "🎐 Tạo Ticket 🎐",
+            "button_emoji": "🎫"
+        }
+    },
+    "ticket_types": {
+        "support": {
+            "name": "Hỗ trợ chung",
+            "emoji": "❓",
+            "description": "Cần hỗ trợ về bot hoặc server"
+        },
+        "report": {
+            "name": "Báo cáo",
+            "emoji": "⚠️",
+            "description": "Báo cáo vi phạm hoặc lỗi"
+        },
+        "suggestion": {
+            "name": "Góp ý",
+            "emoji": "💡",
+            "description": "Đóng góp ý kiến cải thiện"
+        }
+    }
+}

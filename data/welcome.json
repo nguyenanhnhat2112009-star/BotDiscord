@@ -1,0 +1,7 @@
+{
+  "title": "🎉 Chào mừng!",
+  "description": "Xin chào {member.mention}, chào mừng đến với {guild.name}!",
+  "color": 4491912,
+  "image": "",
+  "channel_id": null
+}

@@ -1,0 +1,2614 @@
+13-04-2026 15:04:00 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:04:00 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:04:00 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:04:00 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:04:00 utils.ClientUser:159 [WARNING] - Đã nhận tín hiệu ngắt bot và dọn dẹp môi trường
+13-04-2026 15:04:00 disnake.client:1296 [INFO] - Cleaning up tasks.
+13-04-2026 15:04:00 disnake.client:113 [INFO] - Cleaning up after 2 tasks.
+13-04-2026 15:04:00 disnake.client:118 [INFO] - All tasks finished cancelling.
+13-04-2026 15:04:00 disnake.client:138 [INFO] - Closing the event loop.
+13-04-2026 15:04:55 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:04:55 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:04:55 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:04:55 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:04:56 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:04:58 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-mwd5",{"micros":945736,"calls":["id_created",{"micros":898,"calls":[]},"session_lookup_time",{"micros":347,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-b-155",{"micros":944027,"calls":["start_session",{"micros":855619,"calls":["prd-rpc-694dc6785c-kbg9t",{"micros":135550,"calls":["get_user",{"micros":27559},"get_guilds",{"micros":10509},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":16314},"authorized_ip_coro",{"micros":15},"pending_payments",{"micros":25588},"apex_experiments",{"micros":560932},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":56,"calls":[]},"presence_started",{"micros":342,"calls":[]},"guilds_started",{"micros":66,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":87910,"calls":[]},"connect_finished",{"micros":87924,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 9652280db2fb3302f1a977146c17a314, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:04:59 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='volume'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+| To edit:
+|     -
+| To delete:
+|     -
+| No changes:
+|     -
+13-04-2026 15:05:00 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:05:00 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:05:01 utils.ClientUser:95 [INFO] - Máy chủ TheMyeNew v1 (v4) đã sẵn sàng
+13-04-2026 15:05:01 utils.ClientUser:102 [INFO] - Đã thêm TheMyeNew v1 vào danh sách nodes khả dụng
+13-04-2026 15:05:01 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:06:13 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1128, in __request
+    raise HTTPBadRequest(text)
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776067580493,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/al5zkqjkbbc6p44j/players/1492992345703055645"} (400)
+13-04-2026 15:09:49 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:09:49 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:09:49 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:09:49 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:09:51 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:09:51 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-j13q",{"micros":375513,"calls":["id_created",{"micros":948,"calls":[]},"session_lookup_time",{"micros":224,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-c-4",{"micros":374050,"calls":["start_session",{"micros":285292,"calls":["prd-rpc-694dc6785c-5zcb9",{"micros":193862,"calls":["get_user",{"micros":43790},"get_guilds",{"micros":25645},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":44116},"authorized_ip_coro",{"micros":9},"pending_payments",{"micros":1163},"apex_experiments",{"micros":67061},"sessions_experiments",{"micros":17},"played_application_ids",{"micros":5},"linked_users",{"micros":13},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":27,"calls":[]},"presence_started",{"micros":252,"calls":[]},"guilds_started",{"micros":45,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":88404,"calls":[]},"connect_finished",{"micros":88416,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: b871d1c0711b4cc5a11bfa34a8df334e, Resume URL: wss://gateway-us-east1-c.discord.gg).
+13-04-2026 15:09:52 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:09:53 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:09:53 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:09:54 utils.ClientUser:95 [INFO] - Máy chủ TheMyeNew v1 (v4) đã sẵn sàng
+13-04-2026 15:09:54 utils.ClientUser:102 [INFO] - Đã thêm TheMyeNew v1 vào danh sách nodes khả dụng
+13-04-2026 15:09:54 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:11:25 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:11:25 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:11:25 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:11:25 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:11:26 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:11:27 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-07pr",{"micros":408793,"calls":["id_created",{"micros":1537,"calls":[]},"session_lookup_time",{"micros":196,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-b-187",{"micros":406716,"calls":["start_session",{"micros":350059,"calls":["prd-rpc-694dc6785c-648fb",{"micros":157971,"calls":["get_user",{"micros":91998},"get_guilds",{"micros":15802},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":19},"pending_payments",{"micros":1241},"apex_experiments",{"micros":176839},"sessions_experiments",{"micros":9},"played_application_ids",{"micros":4},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":78,"calls":[]},"presence_started",{"micros":14593,"calls":[]},"guilds_started",{"micros":111,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":41833,"calls":[]},"connect_finished",{"micros":41849,"calls":[]},"build_ready",{"micros":19,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 2c79d183ab619a0252b9a9773cebb936, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:11:27 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:11:28 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:11:29 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:11:30 utils.ClientUser:95 [INFO] - Máy chủ TheMyeNew v1 (v4) đã sẵn sàng
+13-04-2026 15:11:30 utils.ClientUser:102 [INFO] - Đã thêm TheMyeNew v1 vào danh sách nodes khả dụng
+13-04-2026 15:11:30 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:11:56 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "d:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\.venv\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1139, in __request
+    raise HTTPBadRequest(text)
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776067923628,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/h7fgnx588uwnezug/players/1492992345703055645"} (400)
+13-04-2026 15:23:43 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:23:43 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:23:43 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:23:43 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:23:44 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:23:45 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-tfdb",{"micros":491483,"calls":["id_created",{"micros":2399,"calls":[]},"session_lookup_time",{"micros":408,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"sessions-prd-gcp-us-east1-b-159",{"micros":488054,"calls":["start_session",{"micros":462598,"calls":["prd-rpc-694dc6785c-5kd7c",{"micros":384023,"calls":["get_user",{"micros":33257},"get_guilds",{"micros":93614},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":13},"pending_payments",{"micros":2637},"apex_experiments",{"micros":66081},"sessions_experiments",{"micros":14},"played_application_ids",{"micros":15},"linked_users",{"micros":5},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":7}]}]},"starting_guild_connect",{"micros":85,"calls":[]},"presence_started",{"micros":338,"calls":[]},"guilds_started",{"micros":79,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":24915,"calls":[]},"connect_finished",{"micros":24933,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 3c6ea8b5c1327980bbdc17572698fdd7, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:23:46 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:23:46 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:23:47 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:23:48 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:23:48 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:23:48 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:24:03 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "d:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\.venv\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1139, in __request
+    raise HTTPBadRequest(text)
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776068643503,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/28dew05ibtcyh0bt/players/1492992345703055645"} (400)
+13-04-2026 15:26:13 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:26:13 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:26:13 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:26:13 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:26:14 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:26:15 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-j13q",{"micros":152820,"calls":["id_created",{"micros":855,"calls":[]},"session_lookup_time",{"micros":245,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"sessions-prd-gcp-us-east1-c-174",{"micros":151360,"calls":["start_session",{"micros":78970,"calls":["prd-rpc-694dc6785c-lbknf",{"micros":26736,"calls":["get_user",{"micros":5568},"get_guilds",{"micros":4465},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":129},"authorized_ip_coro",{"micros":9},"pending_payments",{"micros":1020},"apex_experiments",{"micros":45961},"sessions_experiments",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":2},"ad_personalization_toggles_disabled",{"micros":2},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":72,"calls":[]},"presence_started",{"micros":340,"calls":[]},"guilds_started",{"micros":73,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":71869,"calls":[]},"connect_finished",{"micros":71885,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 6864110d2e3693206730ea9db140042d, Resume URL: wss://gateway-us-east1-c.discord.gg).
+13-04-2026 15:26:15 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:26:16 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:26:17 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:26:17 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:26:17 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:26:17 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:26:31 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "d:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\.venv\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1150, in __request
+    raise HTTPNotFound(text)
+mafic.errors.HTTPNotFound: An HTTP error occured: {"timestamp":1776068791528,"status":404,"error":"Not Found","message":"No endpoint PATCH /v4/sessions/28dew05ibtcyh0bt/players/1492992345703055645/voice.","path":"/v4/sessions/28dew05ibtcyh0bt/players/1492992345703055645/voice"} (404)
+13-04-2026 15:29:55 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:29:55 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:29:55 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:29:55 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:29:57 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:29:57 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-mcfd",{"micros":143410,"calls":["id_created",{"micros":1284,"calls":[]},"session_lookup_time",{"micros":279,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-c-107",{"micros":141513,"calls":["start_session",{"micros":96222,"calls":["prd-rpc-694dc6785c-lbknf",{"micros":26667,"calls":["get_user",{"micros":7782},"get_guilds",{"micros":3078},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":135},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":1000},"apex_experiments",{"micros":62039},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":2},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":290,"calls":[]},"guilds_started",{"micros":79,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":44828,"calls":[]},"connect_finished",{"micros":44841,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: f3283baa77d174927389a668ed0f3e6f, Resume URL: wss://gateway-us-east1-c.discord.gg).
+13-04-2026 15:29:58 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:29:58 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:29:59 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:29:59 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:29:59 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:29:59 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:30:13 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1139, in __request
+    text = await resp.text()
+        ^^^^^^^^^^^^^^^^^^^^^
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776069020066,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/06coedpfobqycpcg/players/1492992345703055645"} (400)
+13-04-2026 15:30:26 utils.ClientUser:196 [ERROR] - Đã có lỗi xảy ra khi tìm kiếm bài hát: ?play ✅ Đã thêm vào queue: https://www.youtube.com/watch?v=kB3nrvx5svc (ID máy chủ: 1492992345703055645)
+13-04-2026 15:31:25 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:31:25 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:31:25 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:31:25 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:31:28 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:31:29 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-cgwv",{"micros":1202346,"calls":["id_created",{"micros":1671,"calls":[]},"session_lookup_time",{"micros":245,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-c-18",{"micros":1200078,"calls":["start_session",{"micros":1133040,"calls":["prd-rpc-694dc6785c-hvb8z",{"micros":532506,"calls":["get_user",{"micros":109385},"get_guilds",{"micros":110481},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":29184},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":16167},"apex_experiments",{"micros":527417},"sessions_experiments",{"micros":7},"played_application_ids",{"micros":4},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":73,"calls":[]},"presence_started",{"micros":259,"calls":[]},"guilds_started",{"micros":56,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":66613,"calls":[]},"connect_finished",{"micros":66629,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 4f3e3c067ec5551c5fbbbcb5b13934dd, Resume URL: wss://gateway-us-east1-c.discord.gg).
+13-04-2026 15:31:30 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:31:31 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:31:31 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:31:31 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:31:31 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:31:31 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:32:25 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1139, in __request
+    text = await resp.text()
+        ^^^^^^^^^^^^^^^^^^^^^
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776069152377,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/06coedpfobqycpcg/players/1492992345703055645"} (400)
+13-04-2026 15:34:19 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:34:19 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:34:19 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:34:19 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:34:21 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:34:21 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-whc9",{"micros":303124,"calls":["id_created",{"micros":1194,"calls":[]},"session_lookup_time",{"micros":239,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-b-102",{"micros":301297,"calls":["start_session",{"micros":256834,"calls":["prd-rpc-694dc6785c-8shxc",{"micros":81988,"calls":["get_user",{"micros":36379},"get_guilds",{"micros":4424},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":1233},"apex_experiments",{"micros":166076},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":4},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":14}]}]},"starting_guild_connect",{"micros":93,"calls":[]},"presence_started",{"micros":299,"calls":[]},"guilds_started",{"micros":61,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":43973,"calls":[]},"connect_finished",{"micros":43988,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: b71e01917748499ba01f30bfcefdaf28, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:34:22 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:34:22 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:34:23 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:34:23 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:34:23 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:34:23 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:35:18 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "d:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\.venv\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1139, in __request
+    text = await resp.text()
+        ^^^^^^^^^^^^^^^^^^^^^
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776069325043,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/h7fgnx588uwnezug/players/1492992345703055645"} (400)
+13-04-2026 15:36:33 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:36:33 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:36:33 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:36:33 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:36:35 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:36:35 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-txd6",{"micros":253469,"calls":["id_created",{"micros":1308,"calls":[]},"session_lookup_time",{"micros":2439,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-b-40",{"micros":249354,"calls":["start_session",{"micros":203057,"calls":["prd-rpc-694dc6785c-gcfm2",{"micros":113157,"calls":["get_user",{"micros":70674},"get_guilds",{"micros":3924},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":12},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":1497},"apex_experiments",{"micros":67656},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":5},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":70,"calls":[]},"presence_started",{"micros":312,"calls":[]},"guilds_started",{"micros":68,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":45808,"calls":[]},"connect_finished",{"micros":45825,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 62b2ab6cd65894bf93baf5244be0ede1, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:36:36 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:36:37 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:36:37 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:36:37 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:36:37 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:36:38 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:37:33 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:37:33 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:37:33 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:37:33 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:37:34 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:37:35 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-lc43",{"micros":320796,"calls":["id_created",{"micros":1307,"calls":[]},"session_lookup_time",{"micros":5511,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-b-143",{"micros":313454,"calls":["start_session",{"micros":231608,"calls":["prd-rpc-694dc6785c-pfggz",{"micros":70372,"calls":["get_user",{"micros":9504},"get_guilds",{"micros":6124},"send_scheduled_deletion_message",{"micros":18},"guild_join_requests",{"micros":4313},"authorized_ip_coro",{"micros":7},"pending_payments",{"micros":10471},"apex_experiments",{"micros":130611},"sessions_experiments",{"micros":20},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":112,"calls":[]},"presence_started",{"micros":40729,"calls":[]},"guilds_started",{"micros":51,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":40920,"calls":[]},"connect_finished",{"micros":40935,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 07ef140411aecabfd539a03e6795c7d0, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:37:35 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:37:36 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:37:37 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:37:37 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:37:37 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:37:37 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+13-04-2026 15:43:05 utils.ClientUser:207 [INFO] - Booting Client....
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+13-04-2026 15:43:05 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+13-04-2026 15:43:05 mafic.pool:239 [INFO] - Created node, connecting it...
+13-04-2026 15:43:05 disnake.client:1027 [INFO] - logging in using static token
+13-04-2026 15:43:06 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+13-04-2026 15:43:07 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-sfmc",{"micros":151702,"calls":["id_created",{"micros":1921,"calls":[]},"session_lookup_time",{"micros":360,"calls":[]},"session_lookup_finished",{"micros":8,"calls":[]},"sessions-prd-gcp-us-east1-b-48",{"micros":148957,"calls":["start_session",{"micros":95738,"calls":["prd-rpc-694dc6785c-mnw8n",{"micros":22541,"calls":["get_user",{"micros":5289},"get_guilds",{"micros":2020},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":2239},"authorized_ip_coro",{"micros":8},"pending_payments",{"micros":1406},"apex_experiments",{"micros":61815},"sessions_experiments",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":68,"calls":[]},"presence_started",{"micros":381,"calls":[]},"guilds_started",{"micros":69,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":52661,"calls":[]},"connect_finished",{"micros":52679,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 4645c0fd3f9d26f438d3349f181bfb4e, Resume URL: wss://gateway-us-east1-b.discord.gg).
+13-04-2026 15:43:07 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+13-04-2026 15:43:08 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+13-04-2026 15:43:09 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+13-04-2026 15:43:09 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+13-04-2026 15:43:09 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+13-04-2026 15:43:09 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:43:04 utils.ClientUser:207 [INFO] - Booting Client....
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:43:04 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:43:04 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:43:04 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:43:05 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:43:06 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-gzzl",{"micros":350509,"calls":["id_created",{"micros":2084,"calls":[]},"session_lookup_time",{"micros":1781,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-b-66",{"micros":346168,"calls":["start_session",{"micros":311920,"calls":["prd-rpc-67744566f-gw6vl",{"micros":149057,"calls":["get_user",{"micros":6941},"get_guilds",{"micros":6044},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":209},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":1547},"apex_experiments",{"micros":150455},"sessions_experiments",{"micros":5},"played_application_ids",{"micros":4},"linked_users",{"micros":2},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":34,"calls":[]},"presence_started",{"micros":445,"calls":[]},"guilds_started",{"micros":61,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":33678,"calls":[]},"connect_finished",{"micros":33690,"calls":[]},"build_ready",{"micros":12,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 994474358e15c06287753cd8ae8e4227, Resume URL: wss://gateway-us-east1-b.discord.gg).
+15-04-2026 02:43:06 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:43:08 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:43:08 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:43:10 mafic.pool:244 [ERROR] - Failed to connect node local-lavalink, will not add to pool
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1310, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 854, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 641, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] The remote computer refused the network connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\pool.py", line 242, in add_node
+    await node.connect(player_cls=player_cls)
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 617, in connect
+    version = await self._check_version()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 508, in _check_version
+    async with self.__session.get(
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1521, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 788, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 742, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1251, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1623, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1592, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1333, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:2333 ssl:default [The remote computer refused the network connection]
+15-04-2026 02:43:10 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 0/1 nodes Lavalink
+15-04-2026 02:43:23 disnake.client:1293 [INFO] - Received signal to terminate bot and event loop.
+15-04-2026 02:43:23 disnake.client:1296 [INFO] - Cleaning up tasks.
+15-04-2026 02:43:23 disnake.client:113 [INFO] - Cleaning up after 3 tasks.
+15-04-2026 02:43:23 utils.ClientUser:159 [WARNING] - Đã nhận tín hiệu ngắt bot và dọn dẹp môi trường
+15-04-2026 02:43:23 utils.database.database:62 [INFO] - Đang lưu dữ liệu...
+15-04-2026 02:43:23 utils.database.database:68 [INFO] - Đã đồng bộ 0 guild vào cơ sở dữ liệu
+15-04-2026 02:43:23 utils.ClientUser:174 [INFO] - Đang đóng các node client
+15-04-2026 02:43:23 disnake.client:118 [INFO] - All tasks finished cancelling.
+15-04-2026 02:43:23 disnake.client:138 [INFO] - Closing the event loop.
+15-04-2026 02:46:55 utils.ClientUser:207 [INFO] - Booting Client....
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:46:55 utils.ClientUser:193 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:46:55 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:46:55 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:46:56 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:46:56 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-l1ch",{"micros":159763,"calls":["id_created",{"micros":1390,"calls":[]},"session_lookup_time",{"micros":320,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"sessions-prd-gcp-us-east1-d-6",{"micros":157472,"calls":["start_session",{"micros":119580,"calls":["prd-rpc-64986665d6-t2hn6",{"micros":41426,"calls":["get_user",{"micros":6376},"get_guilds",{"micros":3787},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":1389},"apex_experiments",{"micros":67533},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":41,"calls":[]},"presence_started",{"micros":14609,"calls":[]},"guilds_started",{"micros":60,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23058,"calls":[]},"connect_finished",{"micros":23161,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 7d3439dae64e44a94b70c8ff8e387a8b, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 02:46:57 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:46:57 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:46:58 utils.ClientUser:151 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:46:59 utils.ClientUser:95 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:46:59 utils.ClientUser:102 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:46:59 utils.ClientUser:156 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:50:28 utils.ClientUser:234 [INFO] - Booting Client....
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:50:28 utils.ClientUser:220 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:50:28 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:50:28 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:50:29 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:50:30 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-4skt",{"micros":228509,"calls":["id_created",{"micros":932,"calls":[]},"session_lookup_time",{"micros":1676,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-b-102",{"micros":225545,"calls":["start_session",{"micros":170909,"calls":["prd-rpc-64986665d6-w6cq5",{"micros":95212,"calls":["get_user",{"micros":14224},"get_guilds",{"micros":9941},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":161},"authorized_ip_coro",{"micros":16},"pending_payments",{"micros":1361},"apex_experiments",{"micros":64577},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":43,"calls":[]},"presence_started",{"micros":40468,"calls":[]},"guilds_started",{"micros":72,"calls":[]},"lobbies_started",{"micros":36,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":13972,"calls":[]},"connect_finished",{"micros":13997,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 179d0b6ba740a489b4193d46a504ab1c, Resume URL: wss://gateway-us-east1-b.discord.gg).
+15-04-2026 02:50:30 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:50:31 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:50:32 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:50:32 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:50:32 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:50:32 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:51:43 utils.ClientUser:167 [ERROR] - Unhandled slash command error: TimeoutError()
+15-04-2026 02:52:42 utils.ClientUser:243 [INFO] - Booting Client....
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:52:42 utils.ClientUser:229 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:52:42 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:52:42 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:52:43 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:52:44 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-f0vs",{"micros":696934,"calls":["id_created",{"micros":1420,"calls":[]},"session_lookup_time",{"micros":7890,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-c-146",{"micros":687183,"calls":["start_session",{"micros":647816,"calls":["prd-rpc-64986665d6-td24v",{"micros":353619,"calls":["get_user",{"micros":7081},"get_guilds",{"micros":117413},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":29669},"authorized_ip_coro",{"micros":18},"pending_payments",{"micros":20424},"apex_experiments",{"micros":243646},"sessions_experiments",{"micros":9},"played_application_ids",{"micros":15},"linked_users",{"micros":5},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":9}]}]},"starting_guild_connect",{"micros":37,"calls":[]},"presence_started",{"micros":350,"calls":[]},"guilds_started",{"micros":65,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":38855,"calls":[]},"connect_finished",{"micros":38899,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: febf1bfa2e3ef60c57c6a39954d6e015, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 02:52:45 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:52:46 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:52:46 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:52:46 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:52:46 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:52:46 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:53:55 utils.ClientUser:167 [ERROR] - Unhandled slash command error: TimeoutError()
+15-04-2026 02:54:27 utils.ClientUser:243 [INFO] - Booting Client....
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:54:27 utils.ClientUser:229 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:54:27 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:54:27 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:54:28 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:54:29 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-qbwh",{"micros":209712,"calls":["id_created",{"micros":1552,"calls":[]},"session_lookup_time",{"micros":287,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"sessions-prd-gcp-us-east1-b-13",{"micros":207490,"calls":["start_session",{"micros":150993,"calls":["prd-rpc-64986665d6-9cwbw",{"micros":46552,"calls":["get_user",{"micros":8974},"get_guilds",{"micros":3051},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":768},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":1749},"apex_experiments",{"micros":90673},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":7},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":14}]}]},"starting_guild_connect",{"micros":38,"calls":[]},"presence_started",{"micros":403,"calls":[]},"guilds_started",{"micros":98,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":55923,"calls":[]},"connect_finished",{"micros":55940,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 46f0ab7ebe28bb3b1b49b10961a5b404, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 02:54:29 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:54:29 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:54:31 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:54:31 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:54:31 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:54:31 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:55:50 utils.ClientUser:167 [ERROR] - Unhandled slash command error: PlayerNotConnected('The player is not connected to a voice channel.')
+15-04-2026 02:56:40 utils.ClientUser:243 [INFO] - Booting Client....
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:56:40 utils.ClientUser:229 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:56:40 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:56:40 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:56:41 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:56:42 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-40rs",{"micros":339666,"calls":["id_created",{"micros":1046,"calls":[]},"session_lookup_time",{"micros":1213,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-c-14",{"micros":336986,"calls":["start_session",{"micros":311473,"calls":["prd-rpc-64986665d6-ncpp9",{"micros":110700,"calls":["get_user",{"micros":25058},"get_guilds",{"micros":7012},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":14573},"authorized_ip_coro",{"micros":8},"pending_payments",{"micros":1088},"apex_experiments",{"micros":187720},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":14},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":37,"calls":[]},"presence_started",{"micros":493,"calls":[]},"guilds_started",{"micros":98,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":24855,"calls":[]},"connect_finished",{"micros":24865,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 1f9f417144dcc419d0c1acf417dd85bb, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 02:56:42 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:56:43 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:56:44 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:56:44 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:56:44 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:56:44 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:56:59 utils.ClientUser:217 [ERROR] - Đã có lỗi xảy ra khi tìm kiếm bài hát: https://youtu.be/qKoJvv5otbo?si=hKFELFplP8qPYjxV (ID máy chủ: 1492992345703055645)
+15-04-2026 02:57:26 utils.ClientUser:243 [INFO] - Booting Client....
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:57:26 utils.ClientUser:229 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:57:26 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:57:26 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:57:27 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:57:29 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-g8vd",{"micros":1202963,"calls":["id_created",{"micros":1200,"calls":[]},"session_lookup_time",{"micros":342,"calls":[]},"session_lookup_finished",{"micros":9,"calls":[]},"sessions-prd-gcp-us-east1-c-54",{"micros":1201031,"calls":["start_session",{"micros":1184223,"calls":["prd-rpc-64986665d6-vsn7v",{"micros":195617,"calls":["get_user",{"micros":9722},"get_guilds",{"micros":25036},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":12114},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":3023},"apex_experiments",{"micros":911312},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":10},"linked_users",{"micros":9},"ad_personalization_toggles_disabled",{"micros":5},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":39,"calls":[]},"presence_started",{"micros":373,"calls":[]},"guilds_started",{"micros":100,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16262,"calls":[]},"connect_finished",{"micros":16277,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 1ba6a0fd5ef0010bdcb6c30a1eb08306, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 02:57:29 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:57:30 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:57:31 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:57:31 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:57:31 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:57:31 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:57:57 utils.ClientUser:167 [ERROR] - Unhandled slash command error: TimeoutError()
+15-04-2026 02:59:01 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 02:59:01 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 02:59:01 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 02:59:01 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 02:59:02 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 02:59:03 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-nbnm",{"micros":359381,"calls":["id_created",{"micros":1210,"calls":[]},"session_lookup_time",{"micros":399,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"sessions-prd-gcp-us-east1-d-129",{"micros":357204,"calls":["start_session",{"micros":338718,"calls":["prd-rpc-64986665d6-vrs68",{"micros":279909,"calls":["get_user",{"micros":9616},"get_guilds",{"micros":44911},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":20917},"authorized_ip_coro",{"micros":9},"pending_payments",{"micros":1046},"apex_experiments",{"micros":50183},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":9},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":32,"calls":[]},"presence_started",{"micros":328,"calls":[]},"guilds_started",{"micros":89,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18009,"calls":[]},"connect_finished",{"micros":18023,"calls":[]},"build_ready",{"micros":9,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: bd7084050c1cb06ac36e98fa6b75b846, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 02:59:03 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 02:59:03 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 02:59:05 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 02:59:05 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 02:59:05 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 02:59:05 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 02:59:13 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 02:59:43 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 02:59:44 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 02:59:44 utils.ClientUser:267 [WARNING] - PlayerNotConnected tại guild 1492992345703055645, thử reconnect...
+15-04-2026 03:00:45 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:01:02 utils.ClientUser:108 [WARNING] - Mất kết nối đến máy chủ âm nhạc: local-lavalink
+15-04-2026 03:01:02 utils.ClientUser:113 [INFO] - Đã remove local-lavalink khỏi danh sách nodes khả dụng
+15-04-2026 03:01:02 utils.ClientUser:133 [ERROR] - Lỗi khi xử lý node unavailable local-lavalink: 'list' object has no attribute 'values'
+15-04-2026 03:01:02 utils.ClientUser:136 [WARNING] - ⚠️ Đã hết máy chủ âm nhạc khả dụng, bot có thể sẽ không chạy được nhạc
+15-04-2026 03:03:47 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:03:47 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:03:48 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:03:48 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:03:48 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:03:49 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:03:49 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-7wk2",{"micros":109378,"calls":["id_created",{"micros":2534,"calls":[]},"session_lookup_time",{"micros":672,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-c-4",{"micros":105630,"calls":["start_session",{"micros":102105,"calls":["prd-rpc-64986665d6-kc7sn",{"micros":23728,"calls":["get_user",{"micros":4648},"get_guilds",{"micros":5386},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":673},"authorized_ip_coro",{"micros":8},"pending_payments",{"micros":1028},"apex_experiments",{"micros":70187},"sessions_experiments",{"micros":5},"played_application_ids",{"micros":3},"linked_users",{"micros":2},"ad_personalization_toggles_disabled",{"micros":2},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":30,"calls":[]},"presence_started",{"micros":2743,"calls":[]},"guilds_started",{"micros":95,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":630,"calls":[]},"connect_finished",{"micros":641,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 094f742d627a1e6ee170392fbf037267, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 03:03:49 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:03:50 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:03:51 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:03:51 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:03:51 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:03:51 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:04:04 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:04:34 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 03:04:36 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 03:04:36 utils.ClientUser:267 [WARNING] - PlayerNotConnected tại guild 1492992345703055645, thử reconnect...
+15-04-2026 03:06:15 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:06:15 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:06:15 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:06:15 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:06:16 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:06:17 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-p63q",{"micros":372454,"calls":["id_created",{"micros":921,"calls":[]},"session_lookup_time",{"micros":704,"calls":[]},"session_lookup_finished",{"micros":9,"calls":[]},"sessions-prd-gcp-us-east1-d-162",{"micros":370429,"calls":["start_session",{"micros":309218,"calls":["prd-rpc-64986665d6-zkzzr",{"micros":234180,"calls":["get_user",{"micros":61299},"get_guilds",{"micros":10646},"send_scheduled_deletion_message",{"micros":9},"guild_join_requests",{"micros":9},"authorized_ip_coro",{"micros":13},"pending_payments",{"micros":1915},"apex_experiments",{"micros":66560},"sessions_experiments",{"micros":5},"played_application_ids",{"micros":3},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":2},"regional_feature_config",{"micros":2}]}]},"starting_guild_connect",{"micros":34,"calls":[]},"presence_started",{"micros":329,"calls":[]},"guilds_started",{"micros":108,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":60684,"calls":[]},"connect_finished",{"micros":60722,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 5c425e7cdb5f9302a1e4a8c468394166, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 03:06:18 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:06:19 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:06:19 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:06:19 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:06:19 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:06:19 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:06:31 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:07:01 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 03:07:01 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 03:07:01 utils.ClientUser:271 [WARNING] - process_next attempt 1/3 thất bại tại guild 1492992345703055645: PlayerNotConnected
+15-04-2026 03:07:23 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+15-04-2026 03:07:23 utils.ClientUser:1020 [INFO] - Disconnect event deploy complete!
+15-04-2026 03:07:23 utils.ClientUser:294 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+15-04-2026 03:09:44 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:09:44 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:09:44 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:09:44 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:09:45 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:09:46 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-p30l",{"micros":148785,"calls":["id_created",{"micros":1770,"calls":[]},"session_lookup_time",{"micros":334,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"sessions-prd-gcp-us-east1-d-40",{"micros":146170,"calls":["start_session",{"micros":107642,"calls":["prd-rpc-64986665d6-tpcw6",{"micros":26432,"calls":["get_user",{"micros":6314},"get_guilds",{"micros":4630},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":12},"authorized_ip_coro",{"micros":11},"pending_payments",{"micros":1423},"apex_experiments",{"micros":72318},"sessions_experiments",{"micros":15},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":7}]}]},"starting_guild_connect",{"micros":46,"calls":[]},"presence_started",{"micros":14716,"calls":[]},"guilds_started",{"micros":115,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23616,"calls":[]},"connect_finished",{"micros":23630,"calls":[]},"build_ready",{"micros":16,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 7d83de3065d340cebde2c3fee3bfd095, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 03:09:46 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:09:46 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:09:48 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:09:48 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:09:48 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:09:48 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:09:57 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:10:27 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 03:10:28 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 03:10:28 utils.ClientUser:271 [WARNING] - process_next attempt 1/3 thất bại tại guild 1492992345703055645: PlayerNotConnected
+15-04-2026 03:10:51 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+15-04-2026 03:10:51 utils.ClientUser:1023 [INFO] - Disconnect event deploy complete!
+15-04-2026 03:10:51 utils.ClientUser:294 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+15-04-2026 03:13:35 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:14:05 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 03:14:06 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 03:14:06 utils.ClientUser:271 [WARNING] - process_next attempt 1/3 thất bại tại guild 1492992345703055645: PlayerNotConnected
+15-04-2026 03:14:27 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+15-04-2026 03:14:27 utils.ClientUser:1023 [INFO] - Disconnect event deploy complete!
+15-04-2026 03:14:27 utils.ClientUser:294 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+15-04-2026 03:16:01 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:16:01 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:16:01 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:16:01 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:16:03 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:16:03 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-gs58",{"micros":354898,"calls":["id_created",{"micros":1567,"calls":[]},"session_lookup_time",{"micros":329,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-b-154",{"micros":352436,"calls":["start_session",{"micros":310783,"calls":["prd-rpc-64986665d6-hxlmq",{"micros":160219,"calls":["get_user",{"micros":8367},"get_guilds",{"micros":10003},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":12},"pending_payments",{"micros":1423},"apex_experiments",{"micros":120456},"sessions_experiments",{"micros":11},"played_application_ids",{"micros":6},"linked_users",{"micros":12},"ad_personalization_toggles_disabled",{"micros":5},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":40,"calls":[]},"presence_started",{"micros":367,"calls":[]},"guilds_started",{"micros":116,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":41088,"calls":[]},"connect_finished",{"micros":41103,"calls":[]},"build_ready",{"micros":21,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ebb29af353d74d1e06983e3e1209cbd5, Resume URL: wss://gateway-us-east1-b.discord.gg).
+15-04-2026 03:16:04 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:16:04 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:16:05 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:16:05 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:16:05 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:16:05 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:16:12 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:16:42 utils.ClientUser:90 [WARNING] - Voice connect timeout nhưng đã có player sẵn tại guild 1492992345703055645, tiếp tục phát.
+15-04-2026 03:16:42 utils.ClientUser:262 [INFO] - Bắt đầu process_next tại guild 1492992345703055645...
+15-04-2026 03:16:42 utils.ClientUser:271 [WARNING] - process_next attempt 1/3 thất bại tại guild 1492992345703055645: PlayerNotConnected
+15-04-2026 03:16:44 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+15-04-2026 03:16:44 utils.ClientUser:1026 [INFO] - Disconnect event deploy complete!
+15-04-2026 03:16:44 utils.ClientUser:297 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+15-04-2026 03:19:16 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:19:16 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:19:16 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:19:16 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:19:19 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:19:19 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-xz6b",{"micros":241768,"calls":["id_created",{"micros":1041,"calls":[]},"session_lookup_time",{"micros":382,"calls":[]},"session_lookup_finished",{"micros":21,"calls":[]},"sessions-prd-gcp-us-east1-b-106",{"micros":239707,"calls":["start_session",{"micros":194367,"calls":["prd-rpc-64986665d6-tb6vk",{"micros":23582,"calls":["get_user",{"micros":5891},"get_guilds",{"micros":5146},"send_scheduled_deletion_message",{"micros":10},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":7},"pending_payments",{"micros":970},"apex_experiments",{"micros":149410},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":3},"linked_users",{"micros":2},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":15}]}]},"starting_guild_connect",{"micros":45,"calls":[]},"presence_started",{"micros":355,"calls":[]},"guilds_started",{"micros":103,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":44803,"calls":[]},"connect_finished",{"micros":44817,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 9bf04e4628f26ea35e84f43f16871114, Resume URL: wss://gateway-us-east1-b.discord.gg).
+15-04-2026 03:19:20 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:19:20 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:19:21 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:19:21 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:19:21 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:19:21 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:19:35 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:20:12 utils.ClientUser:79 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:22:00 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:22:00 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:22:00 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:22:00 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:22:01 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:22:02 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-1glc",{"micros":667880,"calls":["id_created",{"micros":888,"calls":[]},"session_lookup_time",{"micros":250,"calls":[]},"session_lookup_finished",{"micros":16,"calls":[]},"sessions-prd-gcp-us-east1-c-17",{"micros":666440,"calls":["start_session",{"micros":621964,"calls":["prd-rpc-64986665d6-vrdxv",{"micros":221432,"calls":["get_user",{"micros":82152},"get_guilds",{"micros":15575},"send_scheduled_deletion_message",{"micros":17},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":1567},"apex_experiments",{"micros":328898},"sessions_experiments",{"micros":10},"played_application_ids",{"micros":5},"linked_users",{"micros":5},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":5}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":14051,"calls":[]},"guilds_started",{"micros":111,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":9,"calls":[]},"presence_connect",{"micros":30232,"calls":[]},"connect_finished",{"micros":30257,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: c93e701e4dd75a3e50a44e55e9bbd51f, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 03:22:02 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:22:04 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:22:04 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:22:04 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:22:04 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:22:04 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:22:55 utils.ClientUser:80 [INFO] - Đang kết nối voice tại guild 1492992345703055645...
+15-04-2026 03:25:33 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:25:33 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:25:33 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:25:33 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:25:35 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:25:35 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-37x7",{"micros":227336,"calls":["id_created",{"micros":787,"calls":[]},"session_lookup_time",{"micros":236,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-c-185",{"micros":225975,"calls":["start_session",{"micros":153830,"calls":["prd-rpc-64986665d6-sdknk",{"micros":56582,"calls":["get_user",{"micros":6205},"get_guilds",{"micros":3722},"send_scheduled_deletion_message",{"micros":25},"guild_join_requests",{"micros":2841},"authorized_ip_coro",{"micros":13},"pending_payments",{"micros":1697},"apex_experiments",{"micros":85322},"sessions_experiments",{"micros":9},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":31,"calls":[]},"presence_started",{"micros":8652,"calls":[]},"guilds_started",{"micros":141,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":63284,"calls":[]},"connect_finished",{"micros":63301,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: b7fc66684e0eaf8d232829f2e44a21af, Resume URL: wss://gateway-us-east1-c.discord.gg).
+15-04-2026 03:25:36 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:25:37 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:25:37 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:25:37 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:25:37 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:25:37 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:25:53 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 1/3)...
+15-04-2026 03:26:54 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 2/3)...
+15-04-2026 03:27:56 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 3/3)...
+15-04-2026 03:34:46 utils.ClientUser:108 [WARNING] - Mất kết nối đến máy chủ âm nhạc: local-lavalink
+15-04-2026 03:34:46 utils.ClientUser:113 [INFO] - Đã remove local-lavalink khỏi danh sách nodes khả dụng
+15-04-2026 03:34:46 utils.ClientUser:133 [ERROR] - Lỗi khi xử lý node unavailable local-lavalink: 'list' object has no attribute 'values'
+15-04-2026 03:34:46 utils.ClientUser:136 [WARNING] - ⚠️ Đã hết máy chủ âm nhạc khả dụng, bot có thể sẽ không chạy được nhạc
+15-04-2026 03:36:49 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:36:49 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:36:49 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:36:49 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:36:50 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:36:51 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-txd6",{"micros":562938,"calls":["id_created",{"micros":997,"calls":[]},"session_lookup_time",{"micros":397,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"sessions-prd-gcp-us-east1-b-86",{"micros":561026,"calls":["start_session",{"micros":532598,"calls":["prd-rpc-64986665d6-nqf8l",{"micros":146846,"calls":["get_user",{"micros":56919},"get_guilds",{"micros":17507},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":3809},"apex_experiments",{"micros":335497},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":4},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":12},"regional_feature_config",{"micros":5}]}]},"starting_guild_connect",{"micros":37,"calls":[]},"presence_started",{"micros":7861,"calls":[]},"guilds_started",{"micros":139,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":20359,"calls":[]},"connect_finished",{"micros":20375,"calls":[]},"build_ready",{"micros":11,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 4ecbd54923a417539d41037fd1ecc7d4, Resume URL: wss://gateway-us-east1-b.discord.gg).
+15-04-2026 03:36:51 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:36:52 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:36:53 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:36:55 mafic.pool:244 [ERROR] - Failed to connect node local-lavalink, will not add to pool
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1310, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 854, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 641, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] The remote computer refused the network connection
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\pool.py", line 242, in add_node
+    await node.connect(player_cls=player_cls)
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 617, in connect
+    version = await self._check_version()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 508, in _check_version
+    async with self.__session.get(
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1521, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 788, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 742, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1251, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1623, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1592, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1333, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:2333 ssl:default [The remote computer refused the network connection]
+15-04-2026 03:36:55 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 0/1 nodes Lavalink
+15-04-2026 03:38:58 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:38:58 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:38:58 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:38:58 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:38:59 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:38:59 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-bvvm",{"micros":302580,"calls":["id_created",{"micros":914,"calls":[]},"session_lookup_time",{"micros":3145,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-d-121",{"micros":298041,"calls":["start_session",{"micros":209479,"calls":["prd-rpc-64986665d6-tpcw6",{"micros":130653,"calls":["get_user",{"micros":7347},"get_guilds",{"micros":8489},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":15},"pending_payments",{"micros":1404},"apex_experiments",{"micros":70538},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":42,"calls":[]},"presence_started",{"micros":40749,"calls":[]},"guilds_started",{"micros":124,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":47599,"calls":[]},"connect_finished",{"micros":47615,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 963619a93419c13da20782b54223727f, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 03:39:00 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:39:00 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:39:01 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:39:02 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:39:02 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:39:02 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:39:17 utils.ClientUser:92 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 1/3)...
+15-04-2026 03:39:52 utils.ClientUser:92 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 2/3)...
+15-04-2026 03:40:19 utils.ClientUser:92 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 2/3)...
+15-04-2026 03:40:53 utils.ClientUser:92 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 3/3)...
+15-04-2026 03:41:20 utils.ClientUser:92 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 3/3)...
+15-04-2026 03:42:50 utils.ClientUser:247 [INFO] - Booting Client....
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+15-04-2026 03:42:50 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+15-04-2026 03:42:50 mafic.pool:239 [INFO] - Created node, connecting it...
+15-04-2026 03:42:50 disnake.client:1027 [INFO] - logging in using static token
+15-04-2026 03:42:51 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+15-04-2026 03:42:52 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-h4p1",{"micros":1011135,"calls":["id_created",{"micros":1817,"calls":[]},"session_lookup_time",{"micros":4754,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-d-155",{"micros":1003972,"calls":["start_session",{"micros":989422,"calls":["prd-rpc-64986665d6-k4954",{"micros":491403,"calls":["get_user",{"micros":281125},"get_guilds",{"micros":31907},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":4},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":5342},"apex_experiments",{"micros":459605},"sessions_experiments",{"micros":7},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":41,"calls":[]},"presence_started",{"micros":390,"calls":[]},"guilds_started",{"micros":106,"calls":[]},"lobbies_started",{"micros":2,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":13977,"calls":[]},"connect_finished",{"micros":13992,"calls":[]},"build_ready",{"micros":15,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: d9620015332ed7bcdb29916212473903, Resume URL: wss://gateway-us-east1-d.discord.gg).
+15-04-2026 03:42:53 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+15-04-2026 03:42:54 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+15-04-2026 03:42:54 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+15-04-2026 03:42:54 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+15-04-2026 03:42:54 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+15-04-2026 03:42:55 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+15-04-2026 03:43:36 utils.ClientUser:104 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 1/3)...
+15-04-2026 03:44:38 utils.ClientUser:104 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 2/3)...
+15-04-2026 03:45:39 utils.ClientUser:104 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 3/3)...
+17-04-2026 01:36:21 utils.ClientUser:247 [INFO] - Booting Client....
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+17-04-2026 01:36:21 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+17-04-2026 01:36:21 mafic.pool:239 [INFO] - Created node, connecting it...
+17-04-2026 01:36:21 disnake.client:1027 [INFO] - logging in using static token
+17-04-2026 01:36:22 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+17-04-2026 01:36:23 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-klv2",{"micros":113988,"calls":["id_created",{"micros":1014,"calls":[]},"session_lookup_time",{"micros":285,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"sessions-prd-gcp-us-east1-c-175",{"micros":112295,"calls":["start_session",{"micros":105878,"calls":["prd-rpc-86ddf97d9d-g6xqh",{"micros":29054,"calls":["get_user",{"micros":6707},"get_guilds",{"micros":3021},"send_scheduled_deletion_message",{"micros":14},"guild_join_requests",{"micros":3329},"authorized_ip_coro",{"micros":8},"pending_payments",{"micros":1043},"apex_experiments",{"micros":69505},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":4},"linked_users",{"micros":3},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":3}]}]},"starting_guild_connect",{"micros":33,"calls":[]},"presence_started",{"micros":4465,"calls":[]},"guilds_started",{"micros":93,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1795,"calls":[]},"connect_finished",{"micros":1807,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ad476548b1b0fde9712eec38e0160a80, Resume URL: wss://gateway-us-east1-c.discord.gg).
+17-04-2026 01:36:23 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+17-04-2026 01:36:24 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+17-04-2026 01:36:25 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+17-04-2026 01:36:25 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+17-04-2026 01:36:25 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+17-04-2026 01:36:25 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+17-04-2026 01:36:41 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 1/3)...
+17-04-2026 01:37:28 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 2/3)...
+17-04-2026 01:37:39 utils.ClientUser:108 [WARNING] - Mất kết nối đến máy chủ âm nhạc: local-lavalink
+17-04-2026 01:37:39 utils.ClientUser:113 [INFO] - Đã remove local-lavalink khỏi danh sách nodes khả dụng
+17-04-2026 01:37:39 utils.ClientUser:133 [ERROR] - Lỗi khi xử lý node unavailable local-lavalink: 'list' object has no attribute 'values'
+17-04-2026 01:37:39 utils.ClientUser:136 [WARNING] - ⚠️ Đã hết máy chủ âm nhạc khả dụng, bot có thể sẽ không chạy được nhạc
+17-04-2026 01:38:52 utils.ClientUser:247 [INFO] - Booting Client....
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+17-04-2026 01:38:52 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+17-04-2026 01:38:52 mafic.pool:239 [INFO] - Created node, connecting it...
+17-04-2026 01:38:52 disnake.client:1027 [INFO] - logging in using static token
+17-04-2026 01:38:53 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+17-04-2026 01:38:57 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-pkh4",{"micros":3150117,"calls":["id_created",{"micros":1100,"calls":[]},"session_lookup_time",{"micros":2503,"calls":[]},"session_lookup_finished",{"micros":24,"calls":[]},"sessions-prd-gcp-us-east1-b-199",{"micros":3146100,"calls":["start_session",{"micros":3140523,"calls":["prd-rpc-86ddf97d9d-v7s9g",{"micros":2359855,"calls":["get_user",{"micros":47989},"get_guilds",{"micros":190007},"send_scheduled_deletion_message",{"micros":18},"guild_join_requests",{"micros":55407},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":136615},"apex_experiments",{"micros":630306},"sessions_experiments",{"micros":9},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":41,"calls":[]},"presence_started",{"micros":417,"calls":[]},"guilds_started",{"micros":101,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":4985,"calls":[]},"connect_finished",{"micros":4998,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":3,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 359175ee50c28642d6b7488f82a45c49, Resume URL: wss://gateway-us-east1-b.discord.gg).
+17-04-2026 01:38:57 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+17-04-2026 01:38:57 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+17-04-2026 01:38:59 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+17-04-2026 01:38:59 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+17-04-2026 01:38:59 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+17-04-2026 01:38:59 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+17-04-2026 01:39:09 utils.ClientUser:83 [INFO] - Đang kết nối voice tại guild 1492992345703055645 (attempt 1/3)...
+17-04-2026 01:39:35 utils.ClientUser:108 [WARNING] - Mất kết nối đến máy chủ âm nhạc: local-lavalink
+17-04-2026 01:39:35 utils.ClientUser:113 [INFO] - Đã remove local-lavalink khỏi danh sách nodes khả dụng
+17-04-2026 01:39:35 utils.ClientUser:133 [ERROR] - Lỗi khi xử lý node unavailable local-lavalink: 'list' object has no attribute 'values'
+17-04-2026 01:39:35 utils.ClientUser:136 [WARNING] - ⚠️ Đã hết máy chủ âm nhạc khả dụng, bot có thể sẽ không chạy được nhạc
+17-04-2026 01:54:41 utils.ClientUser:247 [INFO] - Booting Client....
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+17-04-2026 01:54:41 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+17-04-2026 01:54:41 mafic.pool:239 [INFO] - Created node, connecting it...
+17-04-2026 01:54:41 disnake.client:1027 [INFO] - logging in using static token
+17-04-2026 01:54:42 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+17-04-2026 01:54:42 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-b-k00w",{"micros":200403,"calls":["id_created",{"micros":1947,"calls":[]},"session_lookup_time",{"micros":1457,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"sessions-prd-gcp-us-east1-b-9",{"micros":196133,"calls":["start_session",{"micros":154210,"calls":["prd-rpc-6f854f9f58-xkhh9",{"micros":54146,"calls":["get_user",{"micros":7869},"get_guilds",{"micros":5240},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":301},"authorized_ip_coro",{"micros":17},"pending_payments",{"micros":1633},"apex_experiments",{"micros":88362},"sessions_experiments",{"micros":8},"played_application_ids",{"micros":4},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":3},"regional_feature_config",{"micros":12}]}]},"starting_guild_connect",{"micros":49,"calls":[]},"presence_started",{"micros":14496,"calls":[]},"guilds_started",{"micros":135,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":27209,"calls":[]},"connect_finished",{"micros":27224,"calls":[]},"build_ready",{"micros":14,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 3ac77d086ab6ed9af5c457003d2d657b, Resume URL: wss://gateway-us-east1-b.discord.gg).
+17-04-2026 01:54:43 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+17-04-2026 01:54:43 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+17-04-2026 01:54:44 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+17-04-2026 01:54:45 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+17-04-2026 01:54:45 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+17-04-2026 01:54:45 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+17-04-2026 01:55:03 disnake.state:183 [ERROR] - Exception occurred during Voice Protocol voice server update handler
+Traceback (most recent call last):
+  File "C:\Users\Limertla\AppData\Local\Programs\Python\Python311\Lib\site-packages\disnake\state.py", line 181, in logging_coroutine
+    await coroutine
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 399, in on_voice_server_update
+    await self._dispatch_player_update()
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\player.py", line 235, in _dispatch_player_update
+    await self._node.voice_update(
+  File "D:\e8e44dec-9083-4b94-b183-3819fe25bba3 (1)\mafic\node.py", line 1128, in __request
+    raise HTTPBadRequest(text)
+mafic.errors.HTTPBadRequest: An HTTP error occured: {"timestamp":1776365702985,"status":400,"error":"Bad Request","message":"Bad Request","path":"/v4/sessions/8hmg5lp92zrenmkj/players/1492992345703055645"} (400)
+17-04-2026 01:56:18 disnake.client:1293 [INFO] - Received signal to terminate bot and event loop.
+17-04-2026 01:56:18 disnake.client:1296 [INFO] - Cleaning up tasks.
+17-04-2026 01:56:18 disnake.client:113 [INFO] - Cleaning up after 6 tasks.
+17-04-2026 01:56:18 utils.ClientUser:199 [WARNING] - Đã nhận tín hiệu ngắt bot và dọn dẹp môi trường
+17-04-2026 01:56:18 utils.ClientUser:211 [WARNING] - Lỗi khi cleanup node local-lavalink: 'list' object has no attribute 'values'
+17-04-2026 01:56:18 utils.database.database:62 [INFO] - Đang lưu dữ liệu...
+17-04-2026 01:56:18 utils.database.database:68 [INFO] - Đã đồng bộ 0 guild vào cơ sở dữ liệu
+17-04-2026 01:56:18 utils.ClientUser:214 [INFO] - Đang đóng các node client
+17-04-2026 01:56:18 disnake.client:118 [INFO] - All tasks finished cancelling.
+17-04-2026 01:56:18 disnake.client:138 [INFO] - Closing the event loop.
+17-04-2026 01:56:23 utils.ClientUser:247 [INFO] - Booting Client....
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+17-04-2026 01:56:23 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+17-04-2026 01:56:23 mafic.pool:219 [INFO] - Created node, connecting it...
+17-04-2026 01:56:23 mafic.node:604 [INFO] - Waiting for client to be ready...
+17-04-2026 01:56:23 disnake.client:1027 [INFO] - logging in using static token
+17-04-2026 01:56:24 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+17-04-2026 01:56:27 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-c-td0p",{"micros":2377562,"calls":["id_created",{"micros":1878,"calls":[]},"session_lookup_time",{"micros":2708,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"sessions-prd-gcp-us-east1-c-52",{"micros":2372367,"calls":["start_session",{"micros":2316796,"calls":["prd-rpc-6f854f9f58-pk7d5",{"micros":394765,"calls":["get_user",{"micros":22118},"get_guilds",{"micros":110631},"send_scheduled_deletion_message",{"micros":20},"guild_join_requests",{"micros":3},"authorized_ip_coro",{"micros":14},"pending_payments",{"micros":2010},"apex_experiments",{"micros":1892378},"sessions_experiments",{"micros":7},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":35,"calls":[]},"presence_started",{"micros":16850,"calls":[]},"guilds_started",{"micros":127,"calls":[]},"lobbies_started",{"micros":11,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":38517,"calls":[]},"connect_finished",{"micros":38532,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9ba349ea18ae71cfb4179e2d1c7d7fbb, Resume URL: wss://gateway-us-east1-c.discord.gg).
+17-04-2026 01:56:27 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+17-04-2026 01:56:27 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+17-04-2026 01:56:29 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+17-04-2026 01:56:29 mafic.node:630 [INFO] - Connecting to lavalink at http://127.0.0.1:2333/v4...
+17-04-2026 01:56:29 mafic.node:664 [INFO] - Connected to lavalink.
+17-04-2026 01:56:29 mafic.node:839 [INFO] - Successfully resumed connection with lavalink.
+17-04-2026 01:56:29 mafic.node:683 [INFO] - Node local-lavalink is now available.
+17-04-2026 01:56:29 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+17-04-2026 01:56:29 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+17-04-2026 01:56:29 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+17-04-2026 01:56:40 utils.ClientUser:214 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+17-04-2026 01:56:40 utils.ClientUser:814 [ERROR] - Xảy ra sự cố khi cố gắng phát bài hát: https://www.youtube.com/watch?v=qKoJvv5otbo tại GUILDID 1492992345703055645: Lỗi: dev.lavalink.youtube.AllClientsFailedException: (yts.version: 1.18.0) All clients failed to load the item.
+
+Client [WEB] failed: Must find sig function from script: /s/player/b174a5bb/player_embed.vflset/vi_VN/base.jsMust find sig function from script: /s/player/b174a5bb/player_embed.vflset/vi_VN/base.js
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.scriptExtractionFailed(LocalSignatureCipherManager.java:324)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.extractFromScript(LocalSignatureCipherManager.java:301)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.getCipherScript(LocalSignatureCipherManager.java:206)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.resolveFormatUrl(LocalSignatureCipherManager.java:126)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:208)
+
+Client [WEB_EMBEDDED_PLAYER] failed: Video player configuration errorVideo player configuration error
+	at dev.lavalink.youtube.clients.skeleton.Client.getPlayabilityStatus(Client.java:64)
+	at dev.lavalink.youtube.clients.skeleton.NonMusicClient.loadTrackInfoFromInnertube(NonMusicClient.java:163)
+	at dev.lavalink.youtube.clients.skeleton.StreamingNonMusicClient.loadFormats(StreamingNonMusicClient.java:35)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:197)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.processWithClient(YoutubeAudioTrack.java:134)
+
+Client [MWEB] failed: Must find sig function from script: /s/player/b174a5bb/player_embed.vflset/vi_VN/base.jsMust find sig function from script: /s/player/b174a5bb/player_embed.vflset/vi_VN/base.js
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.scriptExtractionFailed(LocalSignatureCipherManager.java:324)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.extractFromScript(LocalSignatureCipherManager.java:301)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.getCipherScript(LocalSignatureCipherManager.java:206)
+	at dev.lavalink.youtube.cipher.LocalSignatureCipherManager.resolveFormatUrl(LocalSignatureCipherManager.java:126)
+	at dev.lavalink.youtube.track.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:208)
+17-04-2026 01:56:41 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+17-04-2026 01:56:41 utils.ClientUser:940 [INFO] - Disconnect event deploy complete!
+17-04-2026 01:56:41 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+17-04-2026 01:56:41 utils.ClientUser:940 [INFO] - Disconnect event deploy complete!
+17-04-2026 01:58:12 disnake.gateway:740 [INFO] - Websocket closed with 1006, attempting a reconnect.
+17-04-2026 01:58:13 disnake.shard:178 [INFO] - Got a request to RESUME the websocket at Shard ID 0.
+17-04-2026 01:58:13 disnake.gateway:534 [INFO] - Shard ID 0 has sent the RESUME payload.
+17-04-2026 01:58:13 disnake.gateway:628 [INFO] - Shard ID 0 has successfully RESUMED session 9ba349ea18ae71cfb4179e2d1c7d7fbb under trace ["gateway-prd-arm-us-east1-c-dcd0",{"micros":4233,"calls":["id_created",{"micros":0,"calls":[]},"session_lookup_time",{"micros":448,"calls":[]},"session_lookup_finished",{"micros":10,"calls":[]},"sessions-prd-gcp-us-east1-c-52",{"micros":18}]}].
+17-04-2026 02:00:01 disnake.client:1293 [INFO] - Received signal to terminate bot and event loop.
+17-04-2026 02:00:01 disnake.client:1296 [INFO] - Cleaning up tasks.
+17-04-2026 02:00:01 disnake.client:113 [INFO] - Cleaning up after 3 tasks.
+17-04-2026 02:00:01 utils.ClientUser:199 [WARNING] - Đã nhận tín hiệu ngắt bot và dọn dẹp môi trường
+17-04-2026 02:00:01 utils.ClientUser:211 [WARNING] - Lỗi khi cleanup node local-lavalink: 'list' object has no attribute 'values'
+17-04-2026 02:00:01 utils.database.database:62 [INFO] - Đang lưu dữ liệu...
+17-04-2026 02:00:01 utils.database.database:68 [INFO] - Đã đồng bộ 0 guild vào cơ sở dữ liệu
+17-04-2026 02:00:01 utils.ClientUser:214 [INFO] - Đang đóng các node client
+17-04-2026 02:00:01 mafic.node:726 [INFO] - Node local-lavalink is now closed.
+17-04-2026 02:00:01 disnake.client:118 [INFO] - All tasks finished cancelling.
+17-04-2026 02:00:01 disnake.client:138 [INFO] - Closing the event loop.
+17-04-2026 02:00:06 utils.ClientUser:247 [INFO] - Booting Client....
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module avatar.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module cute-discord-bot-help.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module emoji.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module invite.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module lyrics.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module moderator.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module music.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module owner.py Đã tải lên thành công
+17-04-2026 02:00:06 utils.ClientUser:233 [INFO] - Module __init__.py Đã tải lên thành công
+17-04-2026 02:00:06 mafic.pool:219 [INFO] - Created node, connecting it...
+17-04-2026 02:00:06 mafic.node:604 [INFO] - Waiting for client to be ready...
+17-04-2026 02:00:06 disnake.client:1027 [INFO] - logging in using static token
+17-04-2026 02:00:07 disnake.gateway:519 [INFO] - Shard ID 0 has sent the IDENTIFY payload.
+17-04-2026 02:00:08 disnake.gateway:616 [INFO] - Shard ID 0 has connected to Gateway: ["gateway-prd-arm-us-east1-d-dljf",{"micros":1193663,"calls":["id_created",{"micros":1151,"calls":[]},"session_lookup_time",{"micros":9649,"calls":[]},"session_lookup_finished",{"micros":19,"calls":[]},"sessions-prd-gcp-us-east1-d-7",{"micros":1182430,"calls":["start_session",{"micros":1117712,"calls":["prd-rpc-6f854f9f58-vfv5r",{"micros":819671,"calls":["get_user",{"micros":30772},"get_guilds",{"micros":87459},"send_scheduled_deletion_message",{"micros":16},"guild_join_requests",{"micros":117302},"authorized_ip_coro",{"micros":10},"pending_payments",{"micros":2365},"apex_experiments",{"micros":287857},"sessions_experiments",{"micros":6},"played_application_ids",{"micros":5},"linked_users",{"micros":4},"ad_personalization_toggles_disabled",{"micros":4},"regional_feature_config",{"micros":4}]}]},"starting_guild_connect",{"micros":40,"calls":[]},"presence_started",{"micros":3034,"calls":[]},"guilds_started",{"micros":112,"calls":[]},"lobbies_started",{"micros":1,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":61500,"calls":[]},"connect_finished",{"micros":61514,"calls":[]},"build_ready",{"micros":13,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: a2722d34e7da95849234e4dea66db697, Resume URL: wss://gateway-us-east1-d.discord.gg).
+17-04-2026 02:00:09 disnake.ext.commands.interaction_bot_base:958 [INFO] - Application command synchronization:
+GLOBAL COMMANDS
+===============
+| Update is required: True
+| To upsert:
+|     -
+| To edit:
+|     <SlashCommand name='avatar'>
+|     <SlashCommand name='emoji'>
+|     <SlashCommand name='add_emoji'>
+|     <SlashCommand name='botinfo'>
+|     <SlashCommand name='loopmode'>
+|     <SlashCommand name='volume'>
+| To delete:
+|     -
+| No changes:
+|     <SlashCommand name='server-avatar'>
+|     <SlashCommand name='avatar-compare'>
+|     <SlashCommand name='banner'>
+|     <SlashCommand name='user-info'>
+|     <SlashCommand name='cuthelp'>
+|     <SlashCommand name='commands'>
+|     <SlashCommand name='invite'>
+|     <SlashCommand name='support'>
+|     <SlashCommand name='lyrics'>
+|     <SlashCommand name='mute'>
+|     <SlashCommand name='unmute'>
+|     <SlashCommand name='kick'>
+|     <SlashCommand name='ban'>
+|     <SlashCommand name='unban'>
+|     <SlashCommand name='purge'>
+|     <SlashCommand name='play'>
+|     <SlashCommand name='stop'>
+|     <SlashCommand name='pause'>
+|     <SlashCommand name='autoplay'>
+|     <SlashCommand name='resume'>
+|     <SlashCommand name='next'>
+|     <SlashCommand name='previous'>
+|     <SlashCommand name='queue'>
+|     <SlashCommand name='clear_queue'>
+|     <SlashCommand name='247'>
+|     <SlashCommand name='seek'>
+|     <SlashCommand name='nightcore'>
+|     <SlashCommand name='shuffle'>
+|     <SlashCommand name='reload'>
+|     <SlashCommand name='shutdown'>
+|     <SlashCommand name='status'>
+17-04-2026 02:00:09 disnake.ext.commands.interaction_bot_base:958 [INFO] - Command synchronization task has finished
+17-04-2026 02:00:11 utils.ClientUser:152 [INFO] - BOT ⛓💥 Discobot Thập Cẩm 💻 đã sẵn sàng
+17-04-2026 02:00:11 mafic.node:630 [INFO] - Connecting to lavalink at http://127.0.0.1:2333/v4...
+17-04-2026 02:00:11 mafic.node:664 [INFO] - Connected to lavalink.
+17-04-2026 02:00:11 mafic.node:965 [INFO] - Sending resume configuration to lavalink with session ID d2gsv2e91ua2zbam.
+17-04-2026 02:00:11 mafic.node:683 [INFO] - Node local-lavalink is now available.
+17-04-2026 02:00:11 utils.ClientUser:96 [INFO] - Máy chủ local-lavalink (v4) đã sẵn sàng
+17-04-2026 02:00:11 utils.ClientUser:103 [INFO] - Đã thêm local-lavalink vào danh sách nodes khả dụng
+17-04-2026 02:00:11 utils.ClientUser:157 [INFO] - ✅ Đã kết nối 1/1 nodes Lavalink
+17-04-2026 02:00:20 utils.ClientUser:214 [INFO] - Trình phát được khởi tạo tại máy chủ 1492992345703055645
+17-04-2026 02:23:12 utils.ClientUser:208 [INFO] - Trình phát được ngắt kết nối khỏi máy chủ: 1492992345703055645
+17-04-2026 02:23:12 utils.ClientUser:940 [INFO] - Disconnect event deploy complete!
+17-04-2026 02:25:32 mafic.node:768 [WARNING] - Websocket was closed from host 127.0.0.1 port 2333 with RFC 6455 code 1006. Reconnecting in 0.95s
+17-04-2026 02:25:32 utils.ClientUser:108 [WARNING] - Mất kết nối đến máy chủ âm nhạc: local-lavalink
+17-04-2026 02:25:32 utils.ClientUser:113 [INFO] - Đã remove local-lavalink khỏi danh sách nodes khả dụng
+17-04-2026 02:25:32 utils.ClientUser:133 [ERROR] - Lỗi khi xử lý node unavailable local-lavalink: 'list' object has no attribute 'values'
+17-04-2026 02:25:32 utils.ClientUser:136 [WARNING] - ⚠️ Đã hết máy chủ âm nhạc khả dụng, bot có thể sẽ không chạy được nhạc
